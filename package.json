@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git@github.com:rrdavis22/progressiveBudget2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "git@github.com:rrdavis22/progressiveBudget2.git/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "git@github.com:rrdavis22/progressiveBudget2.git#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.5.15"
