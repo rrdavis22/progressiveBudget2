@@ -21,6 +21,3 @@ Deployed on Heroku - https://budget-2019.herokuapp.com/
 * Heroku
 
 
-## Author
-
-Dimitrios Tsioutsiopoulos
